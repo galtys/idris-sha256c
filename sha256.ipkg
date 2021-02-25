@@ -1,0 +1,6 @@
+package idris-sha256c
+
+modules = SHA256
+makefile = Makefile
+objs = sha256.o, sha256.h
+
